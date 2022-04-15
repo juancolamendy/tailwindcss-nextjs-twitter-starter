@@ -1,1 +1,2 @@
-# tailwindcss-nextjs-twitter-starter
+# Twitter Starter with NextJS and Tailwindcss
+
